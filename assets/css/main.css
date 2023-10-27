@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Noto Serif Lao';
+    src: url('assets/fonts/NotoSerifLao.ttf') format('truetype')
+  }
+  * {
+    font-family: 'Noto Serif Lao', serif;
+  }
+  #font {
+    font-family: 'Noto Serif Lao', serif ;
+  }
